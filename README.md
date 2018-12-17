@@ -5,7 +5,7 @@ En este espacio se encontrara una introdución a los principios y aplicaciones d
 Incluye la tecnología de sensores, plataformas y portales de datos para recuperar datos. Se cubrirán las principales técnicas de procesamiento y las aplicaciones de datos de sensores remotos de microondas activos y pasivos
 
 
-_**Principios basicos**_ 
+_**Principios básicos**_ 
 * Introducción
   * Follow these [INSTALLATION](INSTALLATION.md) instructions to set up EBD's *openSAR*
 * Historia del Radar 

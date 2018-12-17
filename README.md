@@ -43,7 +43,8 @@ _**Practica (Orientada al monitorero de la deforestación)**_
 * Discusión, Comentarios, Conclusiones y recomendaciones
 
 
-
+![Trendy Lights Image](https://raw.github.com/google/earthengine-api/master/trendy-lights.png)
+![Trendy Lights Image](https://scikit-learn.org/stable/_images/sphx_glr_plot_classifier_comparison_001.png)
 
 [Documentation](https://coded.readthedocs.io/en/latest/)
 

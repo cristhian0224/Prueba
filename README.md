@@ -44,9 +44,11 @@ _**Practica (Orientada al monitorero de la deforestación)**_
 
 
 ![Trendy Lights Image](https://raw.github.com/google/earthengine-api/master/trendy-lights.png)
+
 ![Trendy Lights Image](https://scikit-learn.org/stable/_images/sphx_glr_plot_classifier_comparison_001.png)
 
-[Documentation](https://coded.readthedocs.io/en/latest/)
+[Documentation](https://docs.google.com/viewerng/viewer?url=https://radar.community.uaf.edu/files/2017/01/Lecture2_historyandMathbackground.pdf&hl=en_US)
+
 
 
 * Installation Instructions

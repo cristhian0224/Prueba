@@ -10,30 +10,43 @@ _**Principios básicos**_
   * Follow these [INSTALLATION](INSTALLATION.md) instructions to set up EBD's *openSAR*
 * Historia del Radar 
 * Conceptos matematicos
-
+* Conceptos fisicos
+* Interacción de los microondas 
+ 
 _**Sistemas de Radar**_ 
-
-
+* Principios del Radar
+* Sistemas SAR en plataformas espaciales 
+* Formación de imagenes de radar 
+* SAR (Speckle, distorciones y geocodificación)
+* ...
 
 _**Conceptos avanzados**_ 
-
-
+* Polarimetria (PolSAR)
+* Interferometria (InSAR)
+* Modelamiento Fisico
+* Mapas tematicos
 
 _**Aplicaciones**_ 
+* Aplicación SAR
+* Aplicación PolSAR
+* Aplicación InSAR
 
+_**Practica (Orientada al monitorero de la deforestación)**_ 
 
-
-
+* Descarga de datos de radar
+* Preprocesamiento de imagenes de radar 
+* Procesamiento de imagenes SAR
+* Interpretación de imagenes SAR
+* Métodos de clasificación cambios
+* Detección de deforestación
+* Validación
+* Discusión, Comentarios, Conclusiones y recomendaciones
 
 
 
 
 [Documentation](https://coded.readthedocs.io/en/latest/)
 
-
-
-# openSAR
-EARTH BIG DATA's open source repository for Synthetic Aperture Radar Image Processing. 
 
 * Installation Instructions
   * Follow these [INSTALLATION](INSTALLATION.md) instructions to set up EBD's *openSAR*
@@ -55,10 +68,7 @@ EARTH BIG DATA's open source repository for Synthetic Aperture Radar Image Proce
 
 
 
-# Continuous Degredation Detection (CODED)
-
-CODED is an algorithm developed to monitor for low-magnitude forest disturbances using Landsat data. The algorithm is based upon previous developments in continuous land cover monitoring [(Zhu and Woodcock, 2014)](http://www.sciencedirect.com/science/article/pii/S0034425714000248) and tropical degradation monitoring using spectral unmixing models [(Souza et al., 2013)](http://www.mdpi.com/2072-4292/5/11/5493/html) and is built upon the [Google Earth Engine](https://earthengine.google.com/) processing and data storage system. CODED is designed to create a stratification for sample-based estimation of degraded forests. 
+land cover monitoring [(Zhu and Woodcock, 2014)](http://www.sciencedirect.com/science/article/pii/S0034425714000248) and tropical degradation monitoring using spectral unmixing models. 
 
 An updated repository with Javascript code to run the algorithm can be found [here](https://code.earthengine.google.com/?accept_repo=users/bullocke/coded). 
 
-[Documentation](https://coded.readthedocs.io/en/latest/)

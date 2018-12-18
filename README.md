@@ -1,43 +1,41 @@
 RADAR
 =======================
 
-En este espacio se encontrara una introdución a los principios y aplicaciones de la detección remota por microondas. 
+En este espacio se encontrará una introducción a los principios y aplicaciones de la detección remota por microondas. 
 Incluye la tecnología de sensores, plataformas y portales de datos para recuperar datos. Se cubrirán las principales técnicas de procesamiento y las aplicaciones de datos de sensores remotos de microondas activos y pasivos
 
 
 _**Principios básicos**_ 
-* [Introducción](RADAR/Principios basicos/Introducción.md) 
 * [Introducción](https://github.com/cristhian0224/RADAR/blob/master/Principios%20basicos/Introducci%C3%B3n.md)
-  * Follow these [INSTALLATION](INSTALLATION.md) instructions to set up EBD's *openSAR*
 * Historia del Radar 
-* Conceptos matematicos
-* Conceptos fisicos
+* Conceptos matemáticos
+* Conceptos físicos
 * Interacción de los microondas 
  
 _**Sistemas de Radar**_ 
 * Principios del Radar
 * Sistemas SAR en plataformas espaciales 
-* Formación de imagenes de radar 
-* SAR (Speckle, distorciones y geocodificación)
+* Formación de imágenes de radar 
+* SAR (Speckle, distorsiones y geocodificación)
 * ...
 
 _**Conceptos avanzados**_ 
-* Polarimetria (PolSAR)
-* Interferometria (InSAR)
-* Modelamiento Fisico
-* Mapas tematicos
+* Polarimetría (PolSAR)
+* Interferometría (InSAR)
+* Modelamiento físico
+* Mapas temáticos
 
 _**Aplicaciones**_ 
 * Aplicación SAR
 * Aplicación PolSAR
 * Aplicación InSAR
 
-_**Practica (Orientada al monitorero de la deforestación)**_ 
+_**Practica (Orientada al monitoreo de la deforestación)**_ 
 
 * Descarga de datos de radar
-* Preprocesamiento de imagenes de radar 
-* Procesamiento de imagenes SAR
-* Interpretación de imagenes SAR
+* Preprocesamiento de imágenes de radar 
+* Procesamiento de imágenes SAR
+* Interpretación de imágenes SAR
 * Métodos de clasificación cambios
 * Detección de deforestación
 * Validación
@@ -74,5 +72,11 @@ _**Practica (Orientada al monitorero de la deforestación)**_
 
 land cover monitoring [(Zhu and Woodcock, 2014)](http://www.sciencedirect.com/science/article/pii/S0034425714000248) and tropical degradation monitoring using spectral unmixing models. 
 
-An updated repository with Javascript code to run the algorithm can be found [here](https://code.earthengine.google.com/?accept_repo=users/bullocke/coded). 
+An updated repository with Javascript code to run the algorithm can be found [here](https://code.earthengine.google.com/?accept_repo=users/bullocke/coded).
+
+
+
+
+
+
 

@@ -2,7 +2,7 @@
 
 **Alaska Satellite Facility**
 
-Las imagenes de interes se pueden obtener principalmente de [Alaska Satellite Facility](https://www.asf.alaska.edu/) (ASF) que realiza un enlace de descarga, procesa, archiva y distribuye datos de sensores remotos a usuarios de todo el mundo. La misión de ASF es hacer que los datos de teledetección sean más accesibles. En esta pagina se pueden encontrar los siguiente datos 
+Las imagenes de interes se pueden obtener principalmente de [Alaska Satellite Facility](https://www.asf.alaska.edu/) (ASF) que realiza un enlace de descarga, procesa, archiva y distribuye datos de sensores remotos a usuarios de todo el mundo. La misión de ASF es hacer que los datos de teledetección sean más accesibles. En esta página se pueden encontrar los siguientes datos 
 
 * [Alos Palsar:](https://www.asf.alaska.edu/sar-data/palsar/) Con imágenes tomadas de 2006 a 2011, es un radar de apertura sintética (SAR) de banda L. Los datos de PALSAR provienen de múltiples modos de observación con polarización variable, resolución, ancho de barrido y ángulo fuera del nadir. ALOS también conocido como DAICHI, desarrollado para contribuir a los campos del mapeo, observación regional precisa de la cobertura de la tierra, el monitoreo de desastres y monitoreo de recursos. ALOS fue una misión de la Agencia de Exploración Aeroespacial de Japón (JAXA).
   * [Cobertura espacial](https://www.asf.alaska.edu/sar-data/palsar/alos-acquisition-maps/)
@@ -10,7 +10,7 @@ Las imagenes de interes se pueden obtener principalmente de [Alaska Satellite Fa
   * [Documentos y herramientas](https://www.asf.alaska.edu/sar-data/palsar/documents-tools/)
   * [Descarga de datos](https://vertex.daac.asf.alaska.edu/)
  
-* [Sentinel 1](https://www.asf.alaska.edu/sentinel/) Los satelites Sentinel son una nueva flota de satélites de la Agencia Espacial Europea (ESA), desarrollados para proporcionar una gran cantidad de datos e imágenes fundamentales para el programa Copernicus de Europa. El primero de la serie es el Sentinel-1A, posterior fue lanzado el Sentinel-1B siendo gemelos llevan un radar de apertura sintética (SAR) de banda C, que en conjunto proporcionan imágenes de la superficie de la Tierra.
+* [Sentinel-1:](https://www.asf.alaska.edu/sentinel/) Los satelites Sentinel son una nueva flota de satélites de la Agencia Espacial Europea (ESA), desarrollados para proporcionar una gran cantidad de datos e imágenes fundamentales para el programa Copernicus de Europa. El primero de la serie es el Sentinel-1A, posterior fue lanzado el Sentinel-1B siendo gemelos llevan un radar de apertura sintética (SAR) de banda C, que en conjunto proporcionan imágenes de la superficie de la Tierra.
   * [Cobertura espacial](https://www.asf.alaska.edu/sentinel/data/sentinel-1-coverage-maps/)
   * [Productos](https://www.asf.alaska.edu/sentinel/data/#modes)
   * [Documentos y herramientas](https://www.asf.alaska.edu/sentinel/documents-tools/)
@@ -33,9 +33,9 @@ Las imagenes de interes se pueden obtener principalmente de [Alaska Satellite Fa
   
 Para descargar puede seguir los siguientes datos.
  1. Iniciar sesión: Use su nombre de usuario y contraseña de la NASA Earthdata para descargar los datos.
- 2. Seleccione Región geográfica: Haga clic y luego mueva el cursor en el mapa para resaltar el área de búsqueda. Tambien se puede ingresarla latitud y longitud de la zona de interes.
+ 2. Seleccione Región geográfica: Haga clic y luego mueva el cursor en el mapa para resaltar el área de búsqueda. También se puede ingresarla latitud y longitud de la zona de interés.
  3. Especificar fecha de interés: esta opción es opcional, puede ingresar una fecha de inicio y finalización para la búsqueda, o especificar temporadas a lo largo de varios años.
- 4. Seleccionar conjutos de datos: Seleccione los conjuntos de datos de interés.
+ 4. Seleccionar conjuntos de datos: Seleccione los conjuntos de datos de interés.
  5. Búsqueda: Finalmente dar clic en buscar.
  6. Descargar: Elige opciones de descarga.
     * One-clic: haga clic en el botón "Descargar" en la ventana emergente del producto para realizar una descarga inmediata 
@@ -51,4 +51,5 @@ La misión Sentinel-1 comprende una constelación de dos satélites de órbita p
 5. En la lista de imágenes disponibles, al pasar el puntero sobre cada una se activa un conjunto de íconos donde es posible descargar, seleccionar el producto, zoom, detalles y añadir al carro.
 6. Clic en Download Product, grabar el fichero, descomprimir, chequear los datos y finalmente abrir en el software cartográfico de su elección.
 
-Ver [guía de usuario](https://scihub.copernicus.eu/userguide/)
+  * Ver [guía de usuario](https://scihub.copernicus.eu/userguide/)
+
